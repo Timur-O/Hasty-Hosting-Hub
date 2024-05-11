@@ -12,7 +12,7 @@ import { RouterView } from 'vue-router'
   <RouterView />
 
   <footer>
-    <p>&copy Hasty Hosting Hub</p>
+    <p>&copy; Hasty Hosting Hub</p>
     <nav>
       <RouterLink to="/legal">Terms of Service & Privacy Policy</RouterLink>
     </nav>
